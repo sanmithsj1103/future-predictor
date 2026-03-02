@@ -1,8 +1,8 @@
-# 🔮 date-prophet
+# 🔮 future-predictor
 
-A fun and dramatic web application that predicts... tomorrow!  
+A fun and dramatic web application that predicts... future!  
 
-**date-prophet** is a simple yet entertaining frontend project built using HTML, CSS, and JavaScript.  
+**future-predictor** is a simple yet entertaining frontend project built using HTML, CSS, and JavaScript.  
 Select today’s date, click submit, and watch the system mysteriously calculate the next day with suspenseful loading messages.
 
 ---
@@ -105,4 +105,4 @@ but it absolutely should be this fun.
 
 Sanmith S Joseph
 First interactive JavaScript mini project 🚀
-“The future is only 24 hours away.” – date-prophet
+“The future is only 24 hours away.” – future-predictor
